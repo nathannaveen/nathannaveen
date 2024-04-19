@@ -9,7 +9,7 @@ Nathan is an 11th grader who loves contributing to open source and has been doin
 
 ## Talks
 * **[Criticality Scores Unveiled](https://www.youtube.com/watch?v=oyBIZBcO8G8&t)**
-* **[Upcoming OSSNA 24 talk](https://ossna2024.sched.com/event/1aBOE/lightning-talk-a-teens-perspective-on-navigating-open-source-security-with-guac-nathan-naveen-kusari)**
+* **[What Are Your Most Risky Dependencies?](https://ossna2024.sched.com/event/1aBOE/lightning-talk-a-teens-perspective-on-navigating-open-source-security-with-guac-nathan-naveen-kusari)**
 
 ## Publications
 * **[What is OpenSSF Criticality score](https://openssf.org/blog/2023/07/28/understanding-and-applying-the-openssf-criticality-score-in-open-source-projects/)**
