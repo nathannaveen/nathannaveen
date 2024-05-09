@@ -1,6 +1,6 @@
 ## About Nathan
 
-Nathan is an 11th grader who loves contributing to open source and has been doing so for the past 3 years. In his free time he also enjoys competing in both algorithmic and BJJ competitions.
+Nathan is an 11th grader who loves contributing to open source and has been doing so for the past 3 years. In his free time he also enjoys competing in both algorithmic and Brazilian Jiu-Jitsu.
 
 
 ## Links
