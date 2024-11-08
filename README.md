@@ -1,6 +1,6 @@
 ## About Nathan
 
-Nathan is a high school senior who loves contributing to open source. In his free time he also enjoys competing in both algorithmic and Brazilian Jiu-Jitsu.
+Nathan loves contributing to open source and in his free time he also enjoys competing in both algorithmic and Brazilian Jiu-Jitsu.
 
 
 ## Links
