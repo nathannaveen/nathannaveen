@@ -2,8 +2,7 @@
 
 Nathan is a co-founder of [bomfather.dev](https://bomfather.dev/), he loves contributing to open source and in his free time he also enjoys competing in both algorithmic and Brazilian Jiu-Jitsu competitions.
 
-## Links
-* https://leetcode.com/nathannaveen/
+## Blog
 * https://substack.com/@nathannaveen 
 
 ## Talks
